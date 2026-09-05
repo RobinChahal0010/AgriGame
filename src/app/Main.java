@@ -18,7 +18,7 @@ public class Main {
     
     private static final AtomicInteger economyBalance = new AtomicInteger(100);
     
-    // UI Components
+   
     private static JLabel balanceLabel;
     private static JTextArea logArea;
 
